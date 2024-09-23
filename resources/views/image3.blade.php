@@ -19,13 +19,13 @@
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav d-flex justify-content-evenly" style="display: flex; width: 100%;">
                                 <li class="nav-item active">
-                                    <h2><a class="nav-link" href="{{ route('home') }}">Home</a></h2>
+                                    <h2><a class="nav-link" href="{{ route('home') }}">Test 1</a></h2>
                                 </li>
                                 <li class="nav-item">
-                                    <h2><a class="nav-link" href="{{ route('image2') }}">Test 1</a></h2>
+                                    <h2><a class="nav-link" href="{{ route('image2') }}">Test 2</a></h2>
                                 </li>
                                 <li class="nav-item">
-                                    <h2><a class="nav-link" href="{{ route('image3') }}">Test 2</a></h2>
+                                    <h2><a class="nav-link" href="{{ route('image3') }}">Home</a></h2>
                                 </li>
                             </ul>
                         </div>
